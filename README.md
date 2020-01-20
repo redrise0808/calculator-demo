@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/redrise08/PartsUnlimited/_apis/build/status/redrise0808.calculator-demo?branchName=master)](https://dev.azure.com/redrise08/PartsUnlimited/_build/latest?definitionId=1&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
@@ -15,4 +18,3 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
-
